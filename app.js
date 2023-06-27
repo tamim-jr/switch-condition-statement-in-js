@@ -28,7 +28,7 @@ switch (input) {
         document.write("You type: Nine");
         break;
     case "10":
-        document.write("You type: Tene");
+        document.write("You type: Ten");
         break;
 
     default:
